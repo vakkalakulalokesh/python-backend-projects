@@ -1,11 +1,11 @@
 # Python Backend Projects
 
-A collection of production-grade Python backend projects demonstrating advanced async programming, event-driven architecture, distributed systems, and ML-powered analytics.
+A collection of Python backend projects demonstrating advanced async programming, event-driven architecture, distributed systems, and ML-powered analytics.
 
 ## Projects
 
 ### 1. [Real-Time Anomaly Detection Platform](./anomaly-detection-platform)
-A production-grade observability platform that ingests application and infrastructure metrics, detects anomalies in real-time using 6 statistical and ML algorithms, and provides instant alerting.
+An observability platform that ingests application and infrastructure metrics, detects anomalies in real-time using 6 statistical and ML algorithms, and provides instant alerting.
 
 **Architecture:** FastAPI + Kafka + Redis + Celery + PostgreSQL
 
